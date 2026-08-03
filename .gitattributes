@@ -1,0 +1,4 @@
+# Linux line endings everywhere, whatever the clone host does.
+* text=auto eol=lf
+*.sh text eol=lf
+Makefile text eol=lf

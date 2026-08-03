@@ -1,0 +1,5 @@
+build/
+pusch_scrambler
+*.o
+*.d
+*.out
